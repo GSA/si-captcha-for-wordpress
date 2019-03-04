@@ -1,0 +1,8 @@
+{
+  "name": "wpackagist-plugin/si-captcha-for-wordpress",
+  "homepage": "https://github.com/GSA/si-captcha-for-wordpress",
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.0.0"
+  }
+}
